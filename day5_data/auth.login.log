@@ -1,0 +1,5 @@
+2026-07-30T09:00:00 LOGIN_FAILED ip=10.0.0.1 user=admin
+
+bad log
+2026-07-30T09:01:00 LOGIN_SUCCESS ip=10.0.0.2 user=alice
+2026-07-30T09:02:00 LOGIN_FAILED ip=192.168.1.5 user=rootn
